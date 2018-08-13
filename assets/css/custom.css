@@ -1,0 +1,15 @@
+h1, h2 {
+    text-align: center;
+}
+
+#content {
+    margin-top: 40px;
+}
+.remove-tweet,
+.remove-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color:rgb(255, 80, 80);
+    font-weight: bold;
+    padding: 0 5px;
+}
